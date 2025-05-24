@@ -41,4 +41,4 @@ This module takes live input from the user and performs relevant operations to r
 
 ## Detailed Documentation
 For more information, please refer to the detailed `README` files located in the respective project folders for `244101037_mouse_training_module` and `244101037_testing_module`.
->>>>>>> 5ba6581 (Initial commit)
+
