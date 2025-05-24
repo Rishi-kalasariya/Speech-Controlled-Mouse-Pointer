@@ -2,6 +2,17 @@
 # Speech-Controlled-Mouse-Pointer
 
 # Project Overview
+Speech-Controlled Mouse Pointer
+
+This project aims to develop a speech-controlled mouse pointer system using C++. Unlike typical implementations relying on pre-built libraries, all functionalities are implemented from scratch — including signal processing, feature extraction, and command recognition using a custom-trained Markov Model.
+
+🔍 Key Features:
+	•	🎙️ Custom Audio Dataset: Over 1000 manually recorded audio samples for training and testing.
+	•	📈 High Accuracy: Achieves over 90% accuracy in real-time voice-controlled navigation.
+	•	💻 Fully Native Implementation: All core logic and models implemented in C++ without external ML libraries.
+	•	🖱️ Supported Commands:
+	•	Directional: up, down, left, right
+	•	Actions: click, double click, right click
 
 This project consists of two primary modules:
 
