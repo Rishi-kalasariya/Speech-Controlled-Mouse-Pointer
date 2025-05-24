@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # Speech-Controlled-Mouse-Pointer
-=======
+
 # Project Overview
 
 This project consists of two primary modules:
